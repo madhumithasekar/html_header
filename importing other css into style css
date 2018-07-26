@@ -1,4 +1,4 @@
-#importing other css file in style.css
+# importing other css file in style.css
 ```
 @import url('/css/typography.css');
 @import url('/css/layout.css');
